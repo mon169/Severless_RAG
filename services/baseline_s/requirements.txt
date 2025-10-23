@@ -1,0 +1,9 @@
+boto3==1.34.131
+lancedb==0.25.1
+pyarrow==17.0.0
+numpy==1.26.4
+ujson==5.9.0
+opensearch-py==2.4.*
+requests-aws4auth==1.2.*
+tantivy==0.21.*
+fastjsonschema==2.*

@@ -1,0 +1,19 @@
+{
+  "name": "srag-infra",
+  "version": "0.1.0",
+  "bin": {
+    "srag-infra": "bin/infra.js"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.147.0",
+    "constructs": "^10.3.0",
+    "npm": "^11.6.1",
+    "source-map-support": "^0.5.21"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.17",
+    "npx": "^10.2.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.9.3"
+  }
+}

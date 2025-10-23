@@ -1,0 +1,10 @@
+{
+  "name": "baseline_stream",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.632.0",
+    "@smithy/middleware-retry": "^3.0.9",
+    "undici": "^6.19.8"
+  }
+}
