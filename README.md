@@ -76,7 +76,7 @@ SRAG_BENCH는 **엔드포인트 단위로 완전히 분리된 서버리스 RAG �
 
 ---
 
-## 🔍 검색단계 구성
+## 검색단계 구성
 
 <div align="center">
   <img src="assets/retrievel.jpg" width="750" alt="RAG Retrieval Pipeline Diagram">
