@@ -207,7 +207,7 @@ AWS Serverless 환경에서의 **확장성과 안정성**을 검증하는 것도
 ---
 
 <div align="center">
-  <sub>Maintained by <a href="https://github.com/yourname">유소민 (Somin Yoo)</a> | Severless_RAG 2025 ©</sub>
+  <sub>Maintained by <a href="https://github.com/yourname">mon169</a> | Severless_RAG 2025 ©</sub>
 </div>
 
 
